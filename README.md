@@ -60,6 +60,7 @@ For Database Postgres was used.Port-Adapter Design pattern is implemented, to ma
 •	GET /user/{user_id}  get user information by user_id
 
 **References:**
+
 **SpringBoot Auth:** [https://docs.spring.io/spring-security/reference/features/authentication/index.html](https://docs.spring.io/spring-security/reference/features/authentication/index.html)
 
 **Spring Quartz Scheduler:** [https://docs.spring.io/spring-boot/reference/io/quartz.html](https://docs.spring.io/spring-boot/reference/io/quartz.html)
