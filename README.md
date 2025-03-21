@@ -59,8 +59,11 @@ For Database Postgres was used.Port-Adapter Design pattern is implemented, to ma
 •	GET /users get all the users/
 •	GET /user/{user_id}  get user information by user_id
 
-References
-SpringBoot Auth: [https://docs.spring.io/spring-security/reference/features/authentication/index.html](https://docs.spring.io/spring-security/reference/features/authentication/index.html)
-Spring Quartz Scheduler: [https://docs.spring.io/spring-boot/reference/io/quartz.html](https://docs.spring.io/spring-boot/reference/io/quartz.html)
-Port-Adapter Design Pattern: [https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/hexagonal-architecture.html](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/hexagonal-architecture.html)
-Redis: [https://redis.io/](https://redis.io/)
+**References:**
+**SpringBoot Auth:** [https://docs.spring.io/spring-security/reference/features/authentication/index.html](https://docs.spring.io/spring-security/reference/features/authentication/index.html)
+
+**Spring Quartz Scheduler:** [https://docs.spring.io/spring-boot/reference/io/quartz.html](https://docs.spring.io/spring-boot/reference/io/quartz.html)
+
+**Port-Adapter Design Pattern:** [https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/hexagonal-architecture.html](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/hexagonal-architecture.html)
+
+**Redis:** [https://redis.io/](https://redis.io/)
