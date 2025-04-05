@@ -5,6 +5,8 @@ public class ItemListingRequestDTO {
 
     String itemName;
     String itemDescription;
+
+    
     double price;
     
     public ItemListingRequestDTO(String itemName, String itemDescription, double price){
