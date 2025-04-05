@@ -7,6 +7,7 @@ public class AuctionListingRequestDTO {
     private long duration;
     private long startDelay;
     private String category;
+    
 
     public AuctionListingRequestDTO(Long itemId, double startingPrice, String description, long duration, String category, long startDelay) {
         this.itemId = itemId;
