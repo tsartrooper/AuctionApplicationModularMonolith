@@ -1,5 +1,6 @@
 package com.example.auction_application.Authentication.Config;
 
+
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
 
