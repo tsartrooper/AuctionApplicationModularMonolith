@@ -11,6 +11,7 @@ import com.example.auction_application.AuctionListing.AuctionListingRepository;
 import com.example.auction_application.AuctionListing.Status;
 import com.example.auction_application.AuctionListing.dto.AuctionListingResponseDTO;
 
+
 @Service
 public class AuctionCatalogService {
 
