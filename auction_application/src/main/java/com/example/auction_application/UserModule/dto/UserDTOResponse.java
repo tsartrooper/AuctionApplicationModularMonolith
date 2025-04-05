@@ -2,6 +2,7 @@ package com.example.auction_application.UserModule.dto;
 
 import java.io.Serializable;
 
+
 import com.example.auction_application.UserModule.entity.WebUser;
 
 public class UserDTOResponse implements Serializable{
