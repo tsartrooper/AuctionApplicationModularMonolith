@@ -1,6 +1,7 @@
 package com.example.auction_application.ItemListing.dto;
 
 public class ItemListingRequestDTO {
+    
 
     String itemName;
     String itemDescription;
