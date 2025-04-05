@@ -6,6 +6,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class DomainEvents {
     private static ApplicationEventPublisher publisher;
+    
 
     public DomainEvents(ApplicationEventPublisher publisher){
         DomainEvents.publisher = publisher;
