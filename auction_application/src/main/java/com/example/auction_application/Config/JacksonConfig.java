@@ -1,5 +1,6 @@
 package com.example.auction_application.Config;
 
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
