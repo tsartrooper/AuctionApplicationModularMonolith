@@ -8,6 +8,7 @@ import com.example.auction_application.UserModule.service.UserService;
 import com.example.auction_application.shared.ports.AuctionPort;
 
 
+
 @Component
 public class AuctionUserAdapter implements AuctionPort {
 
