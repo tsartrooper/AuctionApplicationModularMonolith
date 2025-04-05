@@ -1,5 +1,6 @@
 package com.example.auction_application.AuctionListing.adapter;
 
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
