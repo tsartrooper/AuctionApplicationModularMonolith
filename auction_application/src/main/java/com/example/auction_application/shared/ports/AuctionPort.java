@@ -3,6 +3,7 @@ package com.example.auction_application.shared.ports;
 public interface AuctionPort {
 
     boolean userContainsItem(Long userId, Long itemId) throws Exception;
+    
     void userWithIdExists(Long userId) throws Exception;
     void addToSellingAuctions(Long userId, Long auctionId) throws Exception; // adds auction id to user's selling auctions list.
     void addToOwned(Long userId, Long itemId) throws Exception;
