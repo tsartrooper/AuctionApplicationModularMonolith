@@ -1,5 +1,6 @@
 package com.example.auction_application.Bid.entity;
 
+
 import java.time.LocalDateTime;
 
 import jakarta.persistence.Entity;
