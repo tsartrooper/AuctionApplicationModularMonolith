@@ -8,6 +8,7 @@ import com.example.auction_application.UserModule.service.UserService;
 
 @Component
 public class UserBiddingAdapter implements UserBiddingPort{
+    
 
     @Autowired
     UserService userService;
