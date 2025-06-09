@@ -22,7 +22,6 @@ Online auction sites are websites that facilitate buying and selling goods via a
 **Architecture Overview:**
 
 **High Level Design:**
-This is project particularly follows modular monolith architecture practices. The individual modules are loosely coupled for potential of this project breaking down into microservices down the line.
  ![alt text](https://github.com/tsartrooper/AuctionApplicationModularMonolith/blob/main/images/auction_application_hld.png)
 Authentication(Spring Auth)
 JWT based authentication Spring Auth was used. JWT was used instead of session/cookie based authentication to reduce the load on the server.
@@ -84,7 +83,5 @@ For Database Postgres was used.Port-Adapter Design pattern is implemented, to ma
 **SpringBoot Auth:** [https://docs.spring.io/spring-security/reference/features/authentication/index.html](https://docs.spring.io/spring-security/reference/features/authentication/index.html)
 
 **Spring Quartz Scheduler:** [https://docs.spring.io/spring-boot/reference/io/quartz.html](https://docs.spring.io/spring-boot/reference/io/quartz.html)
-
-**Port-Adapter Design Pattern:** [https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/hexagonal-architecture.html](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/hexagonal-architecture.html)
 
 **Redis:** [https://redis.io/](https://redis.io/)
